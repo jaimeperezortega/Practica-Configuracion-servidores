@@ -10,4 +10,4 @@ http://50.17.106.193/
 http://ec2-50-17-106-193.compute-1.amazonaws.com/
 
 Dirección que sirve un archivo estático (imagen):
-http://50.17.106.193:3000/images/salomonv4.jpg
+http://ec2-50-17-106-193.compute-1.amazonaws.com/images/salomonv4.jpg
